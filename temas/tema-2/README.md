@@ -9,7 +9,7 @@ Características principales:
 * Texto plano y legible.
 * Extensible: el usuario define etiquetas propias.
 * Separación entre contenido y presentación.
-* Validación mediante DTD o XML Schema (XSD). (XML bien estructurado y cumple reglas sintaxis)
+* Validación mediante DTD o XML Schema (XSD). (XML bien estructurado y cumple reglas sintaxis, DTD en desuso)
 * Soporta espacios de nombres (namespaces) para evitar colisiones de etiquetas.
 
 Usos comunes:
