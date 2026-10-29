@@ -1,4 +1,3 @@
-<!--Este documento valida el XML-->
 <!ELEMENT correo (remitente, destinatario, asunto, mensaje)>
 <!ATTLIST correo
     fecha CDATA #REQUIRED>
@@ -25,3 +24,4 @@
 <!ELEMENT nombre (#PCDATA)>
 <!ELEMENT departamento (#PCDATA)>
 <!ELEMENT universidad (#PCDATA)>
+<!--Este documento valida el XML-->
