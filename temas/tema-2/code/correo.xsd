@@ -43,3 +43,4 @@
     </xs:complexType>
 
 </xs:schema>
+<!--Mas extenso que DTD pero se ha impuesto porque permite lanzar queries con XPATH-->
