@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE correo SYSTEM "correo.dtd">
+<!DOCTYPE correo SYSTEM "correo.dtd"> <!-- Esta linea valida la estructura, DTD en desuso-->
 <correo fecha="2025-10-27">
     <remitente nombre="Profesor de Bases de Datos" email="profesor@unir.edu"/>
     <destinatario nombre="Estudiante" email="alumno@unir.edu"/>
